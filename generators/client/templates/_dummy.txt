@@ -1,0 +1,2 @@
+hello myBlueprint!
+It's dummy.txt
